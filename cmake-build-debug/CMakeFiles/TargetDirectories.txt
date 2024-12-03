@@ -1,0 +1,3 @@
+/cygdrive/c/Users/abcia/Documents/School/TPSIT/C/SommaNumeri-Pipe/cmake-build-debug/CMakeFiles/SommaNumeri_Pipe.dir
+/cygdrive/c/Users/abcia/Documents/School/TPSIT/C/SommaNumeri-Pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/abcia/Documents/School/TPSIT/C/SommaNumeri-Pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
